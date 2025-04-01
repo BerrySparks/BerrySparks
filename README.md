@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm BerrySparks</h1>
-<h3 align="center">A passionate Web developer/designer from US</h3>
+<h1 align="left">Hi 👋, I'm BerrySparks</h1>
+<h3 align="left">A passionate Web developer/designer from US</h3>
 
 - 💬 Ask me about **React, Vue, PHP**
 
